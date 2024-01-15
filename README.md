@@ -9,6 +9,6 @@ TELEGRAM:https://t.me/hoparner
 
 how to use как исползвать Ինչպես օգտագործել
 
-1. git clone 
+1. git clone https://github.com/hoparner/scan.git
 2. cd scan
 3. bash scan.sh 
