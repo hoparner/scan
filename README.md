@@ -1,5 +1,6 @@
+
 Author by: legion_603
-TELEGRAM:https://t.me/hoparner
+##TELEGRAM:https://t.me/hoparner
 
 [En] The script was created to check the site for phishing and viruses and works on all terminals
 
@@ -9,6 +10,8 @@ TELEGRAM:https://t.me/hoparner
 
 how to use как исползвать Ինչպես օգտագործել
 
-1. git clone https://github.com/hoparner/scan.git
-2. cd scan
-3. bash scan.sh 
+ `git clone https://github.com/hoparner/scan.git`
+ 
+ `cd scan`
+ 
+ `bash scan.sh`
